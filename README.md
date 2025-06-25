@@ -6,43 +6,36 @@
   <img src="https://github.com/sohaibmohd18/sohaibmohd18/assets/168591262/665c1081-5281-4cda-962e-92a6afe7818a" alt="Image" width="70">
 </p>
 
-## 🙎‍♂️ About Me
-Business Analytics graduate with expertise in Data Mining, Data Visualization, Data Base Management, AWS, MS Excel, and many more. Passionate about tackling challenging projects that expand capabilities and make meaningful impact.
+🚀 DevOps | Site Reliability | Infrastructure Engineer  
+📍 Hayward, CA | 🌐 [LinkedIn](https://www.linkedin.com/in/sohaib-mohd)
 
-## 📂 Currently Working On 
-- Previous Projects
-- Portfolio Website
+---
 
-## 🧑‍💻 Technical Skills
+## 🛠️ About Me
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+I'm a passionate DevOps and Site Reliability Engineer with over **4 years of experience** building and optimizing cloud-native solutions. From managing Kubernetes clusters to deploying scalable infrastructure across **AWS**, **Azure**, and **GCP**, I specialize in automating CI/CD pipelines and maintaining high-availability environments.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
-## 🤝 Questions or Feedback?
-Feel free to reach out to me on 
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/sohaib-ahmed-mohammed)
+- 🔧 Proficient in **Terraform, Ansible, Jenkins, ArgoCD, Helm**
+- ☁️ Cloud: **AWS, Azure, GCP**
+- 🐳 Containers: **Docker, Kubernetes, OpenShift**
+- 🔍 Monitoring: **Prometheus, Grafana, ELK Stack, Datadog**
+- 💻 Languages: **Python, Bash, Groovy, Shell**
 
 
+---
 
-<!--
+## 🎓 Education
 
-Here are some ideas to get you started:
+**M.S. in Business Analytics**  
+*California State University, East Bay (2022–2024)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**B.Tech in Electronics and Communication**  
+*VNR VJIET, India (2017–2021)*
+
+---
+
+## 📫 Get in Touch
+ 
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/sohaib-mohd)
+
+Let's build scalable and resilient systems together!
