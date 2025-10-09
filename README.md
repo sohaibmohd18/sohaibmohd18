@@ -1,6 +1,3 @@
-<p align = "center">
-  <img src="https://github.com/sohaibmohd18/sohaibmohd18/assets/168591262/6cc21cc9-e2ed-4cb6-8c88-c7b6cf4d5975"> 
-</p>
 <h3 align = "center">Hi there, Sohaib here! 👋</h3>
 <p align = "center">
   <img src="https://github.com/sohaibmohd18/sohaibmohd18/assets/168591262/665c1081-5281-4cda-962e-92a6afe7818a" alt="Image" width="70">
