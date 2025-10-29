@@ -3,14 +3,14 @@
   <img src="https://github.com/sohaibmohd18/sohaibmohd18/assets/168591262/665c1081-5281-4cda-962e-92a6afe7818a" alt="Image" width="70">
 </p>
 
-🚀 DevOps | Site Reliability | Infrastructure Engineer  
+DevOps | Site Reliability | Infrastructure Engineer  
 📍 Hayward, CA | 🌐 [LinkedIn](https://www.linkedin.com/in/sohaib-mohd)
 
 ---
 
 ## 🛠️ About Me
 
-I'm a passionate DevOps and Site Reliability Engineer with over **4 years of experience** building and optimizing cloud-native solutions. From managing Kubernetes clusters to deploying scalable infrastructure across **AWS**, **Azure**, and **GCP**, I specialize in automating CI/CD pipelines and maintaining high-availability environments.
+I'm a passionate DevOps and Infrastructure Engineer with over **4 years of experience** building and optimizing cloud-native solutions. From managing Kubernetes clusters to deploying scalable infrastructure across **AWS**, **Azure**, and **GCP**, I specialize in automating CI/CD pipelines and maintaining high-availability environments.
 
 - 🔧 Proficient in **Terraform, Ansible, Jenkins, ArgoCD, Helm**
 - ☁️ Cloud: **AWS, Azure, GCP**
