@@ -4,7 +4,7 @@
 </p>
 
 DevOps | Site Reliability | Infrastructure Engineer  
-📍 Hayward, CA | 🌐 [LinkedIn](https://www.linkedin.com/in/sohaib-mohd)
+📍 San Jose, CA | 🌐 [LinkedIn](https://www.linkedin.com/in/sohaib-mohd)
 
 ---
 
@@ -26,8 +26,6 @@ I'm a passionate DevOps and Infrastructure Engineer with over **4 years of exper
 **M.S. in Business Analytics**  
 *California State University, East Bay (2022–2024)*
 
-**B.Tech in Electronics and Communication**  
-*VNR VJIET, India (2017–2021)*
 
 ---
 
