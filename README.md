@@ -131,16 +131,6 @@ current_mission: "Making deployments boring (in a good way)"
 
 </div>
 
----
-
-## 💡 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sohaibmohd18&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/sohaibmohd18/YOUR-REPO-NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sohaibmohd18&repo=YOUR-REPO-NAME-2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/sohaibmohd18/YOUR-REPO-NAME-2)
-
-</div>
 
 ---
 
