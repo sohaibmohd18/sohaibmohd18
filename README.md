@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 ```yaml
 role: DevOps & Infrastructure Engineer
@@ -76,28 +76,12 @@ current_mission: "Making deployments boring (in a good way)"
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=sohaibmohd18&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
 ## 🎓 Education
 
 **🎓 M.S. in Business Analytics**  
 *California State University, East Bay* | 2022 - 2024
 
 ---
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This section will auto-update with GitHub Actions -->
-<!--END_SECTION:activity-->
 
 ---
 
