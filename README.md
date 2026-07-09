@@ -83,13 +83,6 @@ current_mission: "Making deployments boring (in a good way)"
 
 ---
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![](https://github-readme-activity-graph.vercel.app/graph?username=sohaibmohd18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=C9D1D9)
 
 </div>
 
